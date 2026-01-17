@@ -22,5 +22,4 @@ This project demonstrates a mini radar system using Arduino, ultrasonic sensor, 
 - connections/ → Wiring diagram
 
 ## Author
-Your Name
 Hirok Jyoti Bordoloi
